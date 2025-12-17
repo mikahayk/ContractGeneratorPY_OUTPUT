@@ -6,9 +6,8 @@
   * Simply download ContractGenerator.exe and put it wherever is most convenient (it doesn't matter where the application is stored or run from)
 
 * MacOS:
-  * Download dist.zip and place it wherever you want the ContractGenerator installed to (doesn't have to be where you keep the file to actually run the application). Make this somewhere you won't lose track of, so you can easily remove/update the application in the future.
-  * Double-click dist.zip to unzip it. Once everything is unzipped into the dist folder, you can delete dist.zip
-  * Inside the dist folder, you will find the ContractGeneratorLauncher file. You can either run it from this folder, or move it wherever is convenient for you. (Right-click and open the file rather than double clicking it to be given the option to open it while it is unverified)
+  * Download and install ContractGenerator.pkg
+  * Once successfully installed you should find the app "ContractGenerator" in the /Applications folder.
    
 ### Usage Notes
   
